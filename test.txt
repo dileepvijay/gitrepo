@@ -1,1 +1,3 @@
 This is my first git text file
+
+I have made a change now to add the file again
